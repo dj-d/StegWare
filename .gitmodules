@@ -4,3 +4,9 @@
 [submodule "MaliciousLandingPage"]
 	path = MaliciousLandingPage
 	url = https://github.com/dj-d/MaliciousLandingPage.git
+[submodule "StegWare-Backend"]
+	path = StegWare-Backend
+	url = https://github.com/dj-d/StegWare-Backend.git
+[submodule "StegWare-ControlPanel"]
+	path = StegWare-ControlPanel
+	url = https://github.com/dj-d/StegWare-ControlPanel
