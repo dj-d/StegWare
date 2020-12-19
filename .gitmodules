@@ -7,3 +7,6 @@
 [submodule "StegWare-Panel"]
 	path = StegWare-Panel
 	url = https://github.com/dj-d/StegWare-Panel
+[submodule "MaliciousLandingPage"]
+	path = MaliciousLandingPage
+	url = https://github.com/dj-d/MaliciousLandingPage.git
