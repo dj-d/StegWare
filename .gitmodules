@@ -1,12 +1,6 @@
 [submodule "StegWare-App"]
 	path = StegWare-App
 	url = https://github.com/dj-d/StegWare-App
-[submodule "StegWare-Backend"]
-	path = StegWare-Backend
-	url = https://github.com/dj-d/StegWare-Backend
-[submodule "StegWare-Panel"]
-	path = StegWare-Panel
-	url = https://github.com/dj-d/StegWare-Panel
 [submodule "MaliciousLandingPage"]
 	path = MaliciousLandingPage
 	url = https://github.com/dj-d/MaliciousLandingPage.git
