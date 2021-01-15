@@ -7,3 +7,6 @@
 [submodule "StegWare-Backend"]
 	path = StegWare-Backend
 	url = https://github.com/dj-d/StegWare-Backend.git
+[submodule "StegWare-Dashboard"]
+	path = StegWare-Dashboard
+	url = https://github.com/dj-d/StegWare-Dashboard
